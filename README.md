@@ -1,12 +1,7 @@
-# Studies and Analysis using Logistic Regression
+# Extracting information from websites using Web Scraping
 
 ### Click on the folders above to see the projects
 
-In statistics, the logistic model (or logit model) is a widely used statistical model that uses a 
-logistic function to model a binary dependent variable, although many more complex extensions exist. 
+Web scraping is a term for various methods used to collect information from across the Internet. Generally, this is done with software that simulates human Web surfing to collect specified bits of information from different websites.
 
-Mathematically, a binary logistic model has a dependent variable with two possible values, 
-such as pass/fail, win/lose, alive/dead or healthy/sick; these are represented by an indicator variable, where the 
-two values are labeled "0" and "1".
-
-<img src=http://web.cvxr.com/cvx/examples/cvxbook/Ch07_statistical_estim/html/logistics__01.png width=500>
+<img src=https://22570l2e793j2oo9c81ug2nh-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/what-is-web-scraping-diagram.png width=500>
